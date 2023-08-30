@@ -18,7 +18,7 @@ If the birthday is on weekend, program accurately considers weekends and shift t
 <h1>How to use?</h1>
 <ol>
 <li>First of all you should clone the repository, you can use:</li>
-<p><b>git clone https://github.com/OlgaTsuban/Birthday-greeter.git</b></p>
+<p><b>git clone https://github.com/OlgaTsuban/Birthday-Greeter.git</b></p>
 <li><p>You can write this for MacOS <b>python3 main.py </p> </b>
 <p>You can write this for Windows <b>python main.py </p> </li>
 </ol>
